@@ -35,9 +35,9 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com)  
-- [Email](mailto:your.email@example.com)  
-- [GitHub](https://github.com/yourusername)  
+- [LinkedIn](www.linkedin.com/in/supprabha-s-93487b1b7)  
+- [Email](mailto:supprabha2002@gmail.com)  
+- [GitHub](https://github.com/Supprabha2002)  
 - [Portfolio](#) – coming soon!
 
 ---
